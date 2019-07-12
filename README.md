@@ -32,6 +32,6 @@ Criar uma API que vai ter as seguintes rotinas abaixo:
 
 ---
 
-Ao finalizar o teste, subir em um repositório privado e nos encaminhar o link para graziani@vendala.com.br.
+Ao finalizar o teste, subir em um repositório privado e encaminhar o link para graziani@vendala.com.br.
 
 Obs: criar um README.md com as orientações para instalação.
