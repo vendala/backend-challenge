@@ -11,19 +11,20 @@ Tela de Cadastro do produto
   Tela em será preenchido os dados do produto
   
  - Nome do produto
- - Categoria
+ - Categoria (A categoria terá de ser exatamente alguma categoria final do Mercado Livre, ou seja, você precisará utilizar a API de categorias do Mercado Livre e navegar até o seu último nível.)
  - Descrição
  - Preço
  - Imagens
+ - KIT
  
-** A categoria terá de ser exatamente alguma categoria final do Mercado Livre.*
-** Fica ao seu critério montar nessa estrutura uma configuração de produto KIT.*
+* Fica ao seu critério montar nessa estrutura uma configuração de produto KIT.
 
 Tela de listagem dos produtos cadastrados
+  Tela em que será listado os produtos cadastrados com uma opção para excluir o produto
  
 **Back-end**
 Criar uma API que vai receber os dados do produto
 
-— Cadastrar dados do front em uma base MySQL
+— Cadastrar e Deletar produto KIT
 — GET produtos com paginação
 
