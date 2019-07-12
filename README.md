@@ -2,6 +2,10 @@
 
 Este teste visa conhecer um pouco mais da forma em que você programa e como você vai se organizar para montar um produto do tipo KIT.
 
+`
+O produto kit nada mais é do que um produto que é composto por outros produtos, por exemplo, "Play Station 4 + 2 Controles + Fifa 2019". Este produto é um produto kit que é composto por 1 produto "Play Station 4" + " + 2 produtos "Controle Play Station 4" + 1  produto "Jogo PS4 Fifa 2019"
+`
+
 ### Resumo do teste
 
 Você precisa criar uma API em Laravel que vai receber informações de um front-end desacoplado e cadastrar um produto no banco de dados.
@@ -31,11 +35,6 @@ Criar uma API que vai ter as seguintes rotinas abaixo:
 - Deletar
 
 ---
-
-`
-Produto Kit
-O produto kit nada mais é do que um produto que é composto por outros produtos, por exemplo, "Play Station 4 + 2 Controles + Fifa 2019". Este produto é um produto kit que é composto por 1 produto "Play Station 4" + " + 2 produtos "Controle Play Station 4" + 1  produto "Jogo PS4 Fifa 2019"
-`
 
 Ao finalizar o teste, subir em um repositório privado e encaminhar o link para graziani@vendala.com.br.
 
