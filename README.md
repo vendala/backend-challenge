@@ -25,11 +25,10 @@ Tela em que será listado os produtos cadastrados com uma opção para excluir o
 ### Back-end
 Criar uma API que vai ter as seguintes rotinas abaixo:
 
+- Verificação de token que o front-end irá passar via header.
 - Listar (com paginação)
 - Cadastrar
 - Deletar
-
-* Você deve implementar a verificação de token que o front-end irá passar via header.
 
 ---
 
