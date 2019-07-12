@@ -28,3 +28,9 @@ Criar uma API que vai ter as seguintes rotinas abaixo:
 - Listar (com paginação)
 - Cadastrar
 - Deletar
+
+---
+
+Ao finalizar o teste, subir em um repositório privado e nos encaminhar o link para graziani@vendala.com.br.
+
+Obs: criar um README.md com as orientações para instalação.
