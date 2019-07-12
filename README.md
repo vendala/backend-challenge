@@ -29,6 +29,8 @@ Criar uma API que vai ter as seguintes rotinas abaixo:
 - Cadastrar
 - Deletar
 
+* Você deve implementar a verificação de token que o front-end irá passar via header.
+
 ---
 
 Ao finalizar o teste, subir em um repositório privado e nos encaminhar o link para graziani@vendala.com.br.
