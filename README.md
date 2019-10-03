@@ -19,9 +19,8 @@ Obs 1: é importante lembrar que em todas essas operações de produtos acima **
 
 Obs 2: de preferência em utilizar o banco de dados MySQL para que seja fácil nossa analise, e também por que é o que utilizamos aqui.
 
-## Seria legal se você fizesse:
+## Seria legal se você fizesse
 
-- Front-end desacoplado (para testarmos visualmente e saber se você sabe um pouco de HTML e CSS, vai que precisa, né?) <3
 - TDD
 
 ## No mais...
