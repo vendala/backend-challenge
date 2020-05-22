@@ -28,7 +28,7 @@ Obs 3: não esqueça de criar um README.md explicando oque precisamos fazer para
 
 Se você tiver alguma dúvida, entrar em contato com graziani@vendala.com.br.
 
-Ao finalizar o teste, subir em um reposítorio privado, adicionar como colaborador o usuário @vitorleonel e mandar o link para graziani@vendala.com.br ou como mensagem no Programathor, caso você se candidatou por lá.
+Ao finalizar o teste, subir em um reposítorio público, mandar o link para graziani@vendala.com.br ou como mensagem no Programathor, caso você se candidatou por lá.
 
 ---
 
