@@ -1,41 +1,35 @@
-# Teste vaga Venda.la - Criação de produtos KIT via API
+# Teste Programador PHP Back-end Pleno
 
-Este teste visa conhecer um pouco mais da forma em que você programa e como você vai se organizar para montar um produto do tipo KIT.
+Este teste tem como objetivo conhecer um pouco mais como você programa, e como você vai se organizar para montar um pequeno sistema de produtos com **variações de cores**.
 
-`
-O produto kit nada mais é do que um produto que é composto por outros produtos, por exemplo, "Play Station 4 + 2 Controles + Fifa 2019". Este produto é um produto kit que é composto por 1 produto "Play Station 4" + " + 2 produtos "Controle Play Station 4" + 1  produto "Jogo PS4 Fifa 2019"
-`
+## O que você precisa fazer
 
-### Resumo do teste
+Você precisa criar uma API utilizando Laravel ou Lumen, contendo os seguintes end-points/rotinas abaixo:
 
-Você precisa criar uma API em Laravel que vai receber informações de um front-end desacoplado e cadastrar um produto no banco de dados.
+- Cadastro de usuários
+- Autenticação utilizando JWT
+- Produtos com variação (restrição para somente usuário autenticado)
+  - Listar
+  - Cadastrar
+  - Atualizar
+  - Deletar
 
-### Front-end
-##### Tela de Cadastro do produto
-Tela em que será preenchido os dados do produto.
+Obs 1: é importante lembrar que em todas essas operações de produtos acima **você precisa considerar as variações de cores**, mas também deixar flexivel para decidir se eu quero ou não por uma variação.
 
- - Nome do produto
- - Categoria (A categoria terá de ser exatamente alguma categoria final do Mercado Livre, ou seja, você precisará utilizar a API de categorias do Mercado Livre e navegar até o seu último nível.)
- - Descrição
- - Preço
- - Imagens
- - KIT
+Obs 2: de preferência em utilizar o banco de dados MySQL para que seja fácil nossa analise, e também por que é o que utilizamos aqui.
 
-* Fica ao seu critério montar nessa estrutura uma configuração de produto KIT.
+Obs 3: não esqueça de criar um README.md explicando oque precisamos fazer para rodar sua aplicação aqui em nossa máquina.
 
-##### Tela de listagem dos produtos cadastrados
-Tela em que será listado os produtos cadastrados com uma opção para excluir o produto.
+## Seria legal se você fizesse
 
-### Back-end
-Criar uma API que vai ter as seguintes rotinas abaixo:
+- TDD
 
-- Verificação de token que o front-end irá passar via header.
-- Listar (com paginação)
-- Cadastrar
-- Deletar
+## No mais...
 
+Se você tiver alguma dúvida, entrar em contato com graziani@vendala.com.br.
 
-Ao finalizar o teste, subir em um repositório público e encaminhar o link para graziani@vendala.com.br.
+Ao finalizar o teste, subir em um reposítorio público, mandar o link para graziani@vendala.com.br
 
-Obs: criar um README.md com as orientações para instalação.
+---
 
+Boa sorte! Esperamos ter você aqui com a gente :)
