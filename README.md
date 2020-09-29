@@ -1,5 +1,4 @@
 # Teste vaga Venda.la - Criação de produtos KIT via API
-
 Este teste visa conhecer um pouco mais da forma em que você programa e como você vai se organizar para montar um produto do tipo KIT.
 
 `
