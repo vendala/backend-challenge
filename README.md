@@ -2,6 +2,8 @@
 
 Este teste tem como objetivo conhecer um pouco mais como você programa, e como você vai se organizar para montar um pequeno sistema de produtos com **variações de cores**.
 
+As opções de cores tem que ter o mesmo valor do atributo "COLOR" da categoria do Mercado Livre "Calçados, Roupas e Bolsas > Camisetas".
+
 ## O que você precisa fazer
 
 Você precisa criar uma API utilizando Laravel ou Lumen, contendo os seguintes end-points/rotinas abaixo:
@@ -19,6 +21,8 @@ Obs 1: é importante lembrar que em todas essas operações de produtos acima **
 Obs 2: de preferência em utilizar o banco de dados MySQL para que seja fácil nossa analise, e também por que é o que utilizamos aqui.
 
 Obs 3: não esqueça de criar um README.md explicando oque precisamos fazer para rodar sua aplicação aqui em nossa máquina.
+
+Obs 4: não se preocupe em fazer um front-end bonito, mas ele precisa estar desacoplado do projeto e ter uma conexão com a API.
 
 ## Seria legal se você fizesse
 
